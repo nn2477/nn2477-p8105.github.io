@@ -1,0 +1,35 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# This is Jeff's awesome website
+
+here's a gift of elmo
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+
+you can add text
+
+* and list
+
+* with extra bullets
+
+you can *FORMAT* and **bold** 
+
+this is a [link](https://www.google.com/) to a good data science tool. here's a link to [P8105](https://p8105.com/index.html). here's a link to the [about](about.html) page 
+
+can still use R!! 
+```{r}
+library(tidyverse)
+
+plot_df = 
+  tibble(
+    x = runif(100),
+    y = 1 + 2 * x + rnorm(100)
+  )
+```
