@@ -33,3 +33,8 @@ plot_df =
     y = 1 + 2 * x + rnorm(100)
   )
 ```
+
+
+# other stuff on this page 
+
+definitely there is [plotly](plotly.html) stuff!
