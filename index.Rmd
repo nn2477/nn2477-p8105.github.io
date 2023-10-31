@@ -36,5 +36,5 @@ I am interested in working at the intersection pharmaceutical companies & health
 
 * Kirkman Laboratories, *Quality Control Specialist* 
 
-You can read more about my professional experience [here](experiences.html)
+You can read more about my professional experience [here](experience.html)
 
