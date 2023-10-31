@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my Page"
+title: "Welcome to my Page!"
 output: 
   html_document:
     toc: true
