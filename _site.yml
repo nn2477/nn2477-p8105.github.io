@@ -6,7 +6,7 @@ navbar:
     - text: "About"
       href: about.html
     - text: "Professional Experience"
-      href: experience.html
+      href: experiences.html
     - icon: fa-regular fa-envelope
       href: mailto:<nn2477@cumc.columbia.edu>
     - icon: fa-github fa-lg
