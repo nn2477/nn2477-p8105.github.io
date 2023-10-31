@@ -1,20 +1,18 @@
-name: "Yay internet!"
+name: "personal website"
 output_dir: "."
 navbar:
-  title: "Home"
+  title: "Nhu Nguyen"
   right:
     - text: "About"
       href: about.html
-    - text: "Projects"
-      href: projects.html
-    - text: "Plotly"
-      href: plotly.html
-    - text: "Dashboard"
-      href: dashboard.html
-    - icon: fa-envelope fa-lg
-      href: mailto:<you@youremail.com>
+    - text: "Professional Experience"
+      href: experience.html
+    - icon: fa-regular fa-envelope
+      href: mailto:<nn2477@cumc.columbia.edu>
     - icon: fa-github fa-lg
       href: http://github.com/nn2477/
+    - icon: fa-brands fa-linkedin
+      href: http://linkedin.com/in/nhu-nguyen0924/
 output:
   html_document:
-    theme: cosmo
+    theme: journal

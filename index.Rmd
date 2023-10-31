@@ -1,40 +1,40 @@
 ---
-title: "My awesome website"
+title: "Welcome to my Page"
 output: 
   html_document:
     toc: true
     toc_float: true
 ---
 
-# This is Jeff's awesome website
-
-here's a gift of elmo
-
-![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+![](https://media.giphy.com/media/HFeQA7LzFsp5M8DtPB/giphy.gif)
 
 
-you can add text
+### Synposis of My Life 
 
-* and list
+**Education:** 
 
-* with extra bullets
+* Columbia University, Mailman School of Public Health, New York, NY 
 
-you can *FORMAT* and **bold** 
+  + *Master of Public Health in Epidemiology & Health Policy* 
 
-this is a [link](https://www.google.com/) to a good data science tool. here's a link to [P8105](https://p8105.com/index.html). here's a link to the [about](about.html) page 
+* Macalester College, St. Paul, MN 
 
-can still use R!! 
-```{r}
-library(tidyverse)
-
-plot_df = 
-  tibble(
-    x = runif(100),
-    y = 1 + 2 * x + rnorm(100)
-  )
-```
+  + *Bachelor of Arts in Biology & Public Health* 
 
 
-# other stuff on this page 
+**Career Interest:**
 
-definitely there is [plotly](plotly.html) stuff!
+I am interested in working at the intersection pharmaceutical companies & health insurance to establish affordable prices for prescription drugs. 
+
+**Professional Experiences:** 
+
+* Vital Strategies, *Civil Registration & Vital Statistics Intern*
+
+* Columbia University, *Graduate Research Assistant*
+
+* Oregon Health & Science University, *Research Assistant II* 
+
+* Kirkman Laboratories, *Quality Control Specialist* 
+
+You can read more about my professional experience [here](experiences.html)
+

@@ -1,0 +1,119 @@
+---
+title: "Snapshot of my Experiences"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+### Professional Experience
+
+**Columbia University**, Department of Epidemiology, New York, NY
+
+*Graduate Research Assistant*
+
+Oct 2022 - Present
+
+* Analyzed the significance of Early Intervention programs in NYC through statistical regressions 
+
+* Assessed different algorithms using ML to project NYC’s life expectancy based on prediction factors
+
+**Vital Strategies**, Department of Civil Registration & Vital Statistics, New York, NY 
+
+*Civil Registration & Vital Statistics Intern* 
+
+May - Aug 2023 
+
+* Collaborated with the global reporting and internal tracking initiative to implement a new program and reporting system across the CRSV program
+
+* Aided the development of standard operating procedures related to new systems 
+
+**Oregon Health & Science University**, Department of Biomedical Engineer, Portland, OR 
+
+*Research Assistant II* 
+
+Jan 2021 - Aug 2022
+
+* Explore & characterize Rab GTPases in activated and unactivated platelets through immunofluorescence microscopy
+
+* Culture human umbilical vein endothelial cells and investigate effects of FXIa, ADAM10 and RAP on VE-Cadherin through Western blot and immunofluorescence microscopy 
+
+**Kirkman Laboratories**, Department of Quality & Regulatory Affairs, Lake Oswego, OR 
+
+*Quality Control Specialist* 
+
+Sep 2020 - Jan 2021
+
+* Monitored and conducted GMP compliance inspections and audits of manufacturing and packaging area 
+
+* Assured quality of product and batch records from Filling and Packaging Departments are up to FDA regulations
+
+**Columbia University**, Biostatistics & Epidemiology Summer Training, New York, NY 
+
+*Research Assistant* 
+
+May - Aug 2019
+
+* Analyzed the relationship of environmental chemicals on liver functions from NHANES data set using SAS® Software
+
+**Friends for a Non-Violent World**, Finance Department, St. Paul, MN 
+
+*Financial Process Intern*
+
+Sep - Dec 2018
+
+*Collaborated with executive board members during monthly meetings to create revenue projections for 2019-2022
+
+*Arranged estimated budget for 2019, reviewed 2018 financial reports, and filed IRS Form 990
+
+*Identified a five-year-long fee discrepancy through auditing financial statements and entrusted to handle the dispute
+
+**Alzheimer's Association**, Community Outreach Department, Portland, OR 
+
+*Community Outreach Intern* 
+
+Dec 2017 - May 2018
+
+* Effectively fostered and built community relationships between the association and minority-centered organizations 
+
+* Translated helpline flier that have been distributed nationally since August 2018
+
+### Education 
+
+**Columbia University**, Mailman School of Public Health, **New York, NY** 
+
+Master of Public Health in Epidemiology, May 2024
+
+*Certificate in Health Policy & Practice* 
+
+**Macalester College**, **St Paul, MN**
+
+Bachelor of Arts in Biology & Public Health, May 2020
+
+### Relevant Coursework
+
+* Introduction to SAS®
+
+* Introduction to Biostatistics
+
+* Epidemiology I, II & III
+
+* Analysis of Categorical Data
+
+* Application of Epidemiological Research Methods 
+
+* Health Economics 
+
+* Data Science 
+
+* Health Policy & Political System
+
+* Strategic Planning for Health Insurance Plans
+
+### Skills
+
+**Software:** MS Excel, MS PowerPoint, R-Studio, SAS® Studio, Adobe LightRoom, Machine Learning
+
+**Wet Lab:** Immunofluorescence Microscopy, Western Blot, ELISA
+
+**Languages:** English, Vietnamese
