@@ -1,18 +1,9 @@
 ---
-title: "About Me"
+title: "About"
 output: 
   html_document:
     toc: true
     toc_float: true
 ---
-### Background
-Hello! My name is Nhu Nguyen & I grew up in the Pacific Northwest, specifically in Portland, OR. I ended up in the Twin Cities, Minnesota for my undergrad education, receiving my BA in biology at Macalester College. Shortly after, I moved back to Portland, where I worked as a contracter at a local pharmaceutical company before working at Oregon Health & Science University as a research assistant II. 
 
-Currently, I am a second-year MPH student at Columbia University, Mailman. School of Public Health living in New York City. My study of focus is on epidemiology and health policy. My area of interest is at the intersection of pharmaceuticals and health policy in terms of making drugs and healthcare more affordable and accessible through data-driven solutions and proposed policies. I have various [research experience](experience.html) in different sectors, including academia, non-profit, and pharmaceuticals. I will be graduating in May 2024 and am currently looking for opportunities that align with my career interest! Please send me an [email](mailto:<nn2477@cumc.columbia.edu>) if you know of any opportunities that you think would be a good fit! 
-
-### Hobbies 
-During my free time, I enjoy cooking, photography, concerts & festivals, and thrifting! I'm always looking for a cool flea market to check out. I also love hosting dinner parties & exploring new restaurants in NYC! I occasionally like doing outdoorsy activities, including paddle boarding, snowboarding, & hiking! 
-
-Thank you for reading & checking out my page ~(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
-
-![](https://media.giphy.com/media/Rlf5qWDMeTVYE9hjQC/giphy.gif)
+## this is where you write something about your project/dataset

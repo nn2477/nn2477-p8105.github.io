@@ -1,40 +1,12 @@
 ---
-title: "Welcome to my Page!"
+title: "My awesome website"
 output: 
   html_document:
     toc: true
     toc_float: true
 ---
 
+## this is Jeff's awesome website
+
 ![](https://media.giphy.com/media/HFeQA7LzFsp5M8DtPB/giphy.gif)
-
-
-### Synposis of My Life 
-
-**Education:** 
-
-* Columbia University, Mailman School of Public Health, New York, NY 
-
-  + *Master of Public Health in Epidemiology & Health Policy* 
-
-* Macalester College, St. Paul, MN 
-
-  + *Bachelor of Arts in Biology & Public Health* 
-
-
-**Career Interest:**
-
-I am interested in working at the intersection pharmaceutical companies & health insurance to establish affordable prices for prescription drugs. 
-
-**Professional Experiences:** 
-
-* Vital Strategies, *Civil Registration & Vital Statistics Intern*
-
-* Columbia University, *Graduate Research Assistant*
-
-* Oregon Health & Science University, *Research Assistant II* 
-
-* Kirkman Laboratories, *Quality Control Specialist* 
-
-You can read more about my professional experience [here](experience.html)
 

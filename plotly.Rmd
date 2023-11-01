@@ -13,23 +13,25 @@ we're making interactive plots
 library(tidyverse)
 library(plotly)
 library(p8105.datasets)
+
 ```
 
-focus on NYC airbnb data
 ```{r}
-data("nyc_airbnb")
+data(nyc_airbnb)
 
 nyc_airbnb = 
-  nyc_airbnb %>% 
-  mutate(stars = review_scores_location / 2) %>% 
-  select(neighbourhood_group, neighbourhood, stars, price, room_type, lat, long) %>% 
-  drop_na(stars) %>% 
+  nyc_airbnb |> 
+  mutate(rating = review_scores_location / 2) |>
+  select(
+    neighbourhood_group, neighbourhood, rating, price, room_type, lat, long) |>
   filter(
+    !is.na(rating), 
     neighbourhood_group == "Manhattan",
     room_type == "Entire home/apt",
-    price %in% 100:500
-  )
+    price %in% 100:500)
 ```
+
+
 
 let's make a scatterplot~ 
 
